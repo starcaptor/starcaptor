@@ -1,1 +1,1 @@
-[![](https://raw.githubusercontent.com/starcaptor/starcaptor/main/chat.svg)]()
+![message_svg](./chat.svg)
