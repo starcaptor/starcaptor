@@ -271,8 +271,8 @@
 
     <!-- From Columbus... -->
     <g transform="translate(10, 48)" class="msg-2">
-        <rect width="425" height="66.1302" rx="18.0355" class="bubble"/>
-        <text x="15" y="27">I live in South Korea where it’s supposed to be</text>
+        <rect width="505" height="66.1302" rx="18.0355" class="bubble"/>
+        <text x="15" y="27">I live somewhere in South Korea where it’s supposed to be</text>
         <text x="15" y="50">{degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.
         </text>
     </g>
@@ -297,7 +297,7 @@
 
     <!-- Work ... -->
     <g transform="translate(10, 120)" class="msg-3">
-        <rect width="459" height="66.1302" rx="18.0355" class="bubble"/>
+        <rect width="400" height="66.1302" rx="18.0355" class="bubble"/>
         <text x="15" y="27">I’m Server-Side Engineer using Java &amp; Spring.</text>
         <text x="15" y="50">But lately, I've been interested in Kotlin.</text>
     </g>
