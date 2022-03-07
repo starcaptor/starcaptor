@@ -1,1 +1,1 @@
-![message_svg](https://github.com/doljae/doljae/blob/main/chat.svg)
+![message_svg](https://github.com/starcaptor/starcaptor/blob/main/chat.svg)
