@@ -21,7 +21,7 @@ const emojis = {
 function convertTZ(date, tzString) {
   return new Date((typeof date === "string" ? new Date(date) : date).toLocaleString("en-US", {timeZone: tzString}));
 }
-const today = convertTZ(new Date(), "Asia/Seoul");
+const today = convertTZ(new Date(), "Asia/Tokyo");
 const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(today);
 
 const psTime = formatDistance(new Date(2020, 12, 14), today, {
@@ -30,7 +30,7 @@ const psTime = formatDistance(new Date(2020, 12, 14), today, {
 
 // Today's weather
 weather.setLang('en')
-weather.setCoordinate(37.517235, 127.047325)
+weather.setCoordinate(35.71, 139.73)
 weather.setUnits('imperial')
 weather.setAPPID(WEATHER_API_KEY)
 

@@ -272,7 +272,7 @@
     <!-- From Columbus... -->
     <g transform="translate(10, 48)" class="msg-2">
         <rect width="400" height="66.1302" rx="18.0355" class="bubble"/>
-        <text x="15" y="27">I live somewhere in South Korea,</text>
+        <text x="15" y="27">I live somewhere in Anime World,</text>
         <text x="15" y="50">it’s supposed to be {degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.
         </text>
     </g>
@@ -297,9 +297,9 @@
 
     <!-- Work ... -->
     <g transform="translate(10, 120)" class="msg-3">
-        <rect width="400" height="66.1302" rx="18.0355" class="bubble"/>
-        <text x="15" y="27">I’m Server-Side Engineer using Java &amp; Spring.</text>
-        <text x="15" y="50">But lately, I've been interested in Kotlin.</text>
+        <rect width="430" height="66.1302" rx="18.0355" class="bubble"/>
+        <text x="15" y="27">I am a card captor who collects crow cards.</text>
+        <text x="15" y="50">But lately, I've been interested in awesome repos.</text>
     </g>
 
     <!-- typing 4 -->
@@ -322,11 +322,11 @@
 
     <!-- Twitter -->
     <g transform="translate(10, 192)" class="msg-4">
-        <rect width="465" height="42" rx="18.0355" class="bubble"/>
+        <rect width="420" height="42" rx="18.0355" class="bubble"/>
         <text x="15" y="27">
             <!--      You can find me on-->
             <!--      <a xlink:href="https://abit.ly/jypthemiracle">https://abit.ly/jypthemiracle</a>-->
-            Usually I spend my spare time reading and exercising.
+            Usually I spend my time to star some nice repos.
         </text>
     </g>
 
