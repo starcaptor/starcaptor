@@ -371,7 +371,6 @@
         </circle>
 
     </g>
-
     <!-- Thanks -->
     <g transform="translate(10, 288)" class="msg-6">
         <rect width="235" height="42" rx="18.0355" class="bubble"/>
@@ -379,5 +378,4 @@
             <tspan class="emoji">👋</tspan>
         </text>
     </g>
-
 </svg>
