@@ -271,9 +271,9 @@
 
     <!-- From Columbus... -->
     <g transform="translate(10, 48)" class="msg-2">
-        <rect width="400" height="66.1302" rx="18.0355" class="bubble"/>
+        <rect width="425" height="66.1302" rx="18.0355" class="bubble"/>
         <text x="15" y="27">I live somewhere in Anime World,</text>
-        <text x="15" y="50">it’s supposed to be {degF}° F ({degC}° C) and <tspan class="emoji">{weatherEmoji}</tspan> today.
+        <text x="15" y="50">It's a good day to star an awesome repository ⭐️
         </text>
     </g>
 
@@ -374,7 +374,9 @@
 
     <!-- Have a great... -->
     <g transform="translate(10, 288)" class="msg-6">
-        <rect width="235" height="42" rx="18.0355" class="bubble" />
-        <text x="15" y="27">Have a great {todayDay}! <tspan class="emoji">👋</tspan></text>
+        <rect width="252" height="42" rx="18.0355" class="bubble"/>
+        <text x="15" y="27">Have a great {date}!
+            <tspan class="emoji">👋</tspan>
+        </text>
     </g>
 </svg>
